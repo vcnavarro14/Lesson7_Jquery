@@ -1,0 +1,4 @@
+In myRecipe.js file I used the animate method to slowly toggle when the user selects the h3 elements. 
+I used "//$("h3").click(display);" to keep the display 2 from showing when the user clicks the h3 elements.
+I used the "hover" function to change the background color when the mouse is hovered over it. 
+I changed the colors of the h3 element background to red and blue. 
